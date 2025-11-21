@@ -7,7 +7,7 @@ import { JSONViewer } from './components/JSONViewer';
 import { SummaryWidget } from './components/SummaryWidget';
 import { ExportButtons } from './components/ExportButtons';
 import { MOCK_BOUNDING_BOXES, MOCK_EXTRACTED_DATA, MOCK_INSIGHTS } from './lib/mockData';
-import type { ExtractedData } from './lib/types';
+import type { ExtractedData, BoundingBox } from './lib/appTypes';
 import { Layout, FileText, Table, Code, Loader2, Download } from 'lucide-react';
 import styles from './App.module.css';
 
@@ -19,6 +19,7 @@ function App() {
   const [highlightedRowIndex, setHighlightedRowIndex] = useState<number | undefined>(undefined);
 
   const [extractedData, setExtractedData] = useState<ExtractedData>(MOCK_EXTRACTED_DATA);
+  const [boundingBoxes, setBoundingBoxes] = useState<BoundingBox[]>(MOCK_BOUNDING_BOXES);
   const [aiInsights, setAiInsights] = useState<any>(MOCK_INSIGHTS);
   const [downloadUrl, setDownloadUrl] = useState<string | null>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
@@ -73,6 +74,89 @@ function App() {
         errors: []
       };
 
+      // Parse Bounding Boxes
+      const newBoundingBoxes: BoundingBox[] = [];
+      const analysis = result.analysis;
+
+      if (analysis) {
+        if (analysis.type === 'pdf' && analysis.pages) {
+           analysis.pages.forEach((page: any) => {
+               const pageNum = page.page;
+               // Text Blocks
+               if (page.blocks) {
+                   page.blocks.forEach((block: any) => {
+                       newBoundingBoxes.push({
+                           id: block.id,
+                           page: pageNum,
+                           type: 'text',
+                           coordinates: block.normalized_box,
+                           label: block.text.substring(0, 20) + '...'
+                       });
+                   });
+               }
+               // Tables
+               if (page.tables) {
+                   page.tables.forEach((table: any) => {
+                        newBoundingBoxes.push({
+                           id: table.id,
+                           page: pageNum,
+                           type: 'table',
+                           coordinates: table.normalized_box,
+                           label: 'Table'
+                       });
+                   });
+               }
+               // Charts
+               if (page.charts) {
+                   page.charts.forEach((chart: any) => {
+                        newBoundingBoxes.push({
+                           id: chart.id,
+                           page: pageNum,
+                           type: chart.type === 'pie' ? 'chart' : 'chart',
+                           coordinates: chart.normalized_box,
+                           label: chart.type === 'pie' ? 'Pie Chart' : 'Chart'
+                       });
+                   });
+               }
+           });
+        } else if (analysis.type === 'image') {
+             // Image logic
+             if (analysis.blocks) {
+                 analysis.blocks.forEach((block: any) => {
+                    newBoundingBoxes.push({
+                        id: block.id,
+                        page: 1,
+                        type: 'text',
+                        coordinates: block.normalized_box,
+                        label: block.text.substring(0, 20) + '...'
+                    });
+                 });
+             }
+             if (analysis.tables) {
+                analysis.tables.forEach((table: any) => {
+                    newBoundingBoxes.push({
+                        id: table.id,
+                        page: 1,
+                        type: 'table',
+                        coordinates: table.normalized_box,
+                        label: 'Table'
+                    });
+                });
+             }
+             if (analysis.charts) {
+                analysis.charts.forEach((chart: any) => {
+                    newBoundingBoxes.push({
+                        id: chart.id,
+                        page: 1,
+                        type: 'chart',
+                        coordinates: chart.normalized_box,
+                        label: chart.type === 'pie' ? 'Pie Chart' : 'Chart'
+                    });
+                });
+             }
+        }
+      }
+
       // Transform AI result into SummaryInsight array
       const insights: any[] = [];
 
@@ -95,6 +179,7 @@ function App() {
       }
 
       setExtractedData(mappedData);
+      setBoundingBoxes(newBoundingBoxes);
       setAiInsights(insights);
       setDownloadUrl(result.downloadUrl);
       setViewMode('workspace');
@@ -108,10 +193,17 @@ function App() {
 
   const handleRegionClick = (regionId: string) => {
     setSelectedRegionId(regionId);
-    if (regionId === 'box-1') {
-      setHighlightedRowIndex(0);
+
+    // Simple mapping: if text, try to find row.
+    // For now, we don't have a direct map from text-block to table-row.
+    // But we can check if the region is a table.
+
+    if (regionId.startsWith('table-')) {
+         // If a table is selected, maybe highlight the first row or all?
+         // For now, just highlight the first row to show interaction
+         setHighlightedRowIndex(0);
     } else {
-      setHighlightedRowIndex(undefined);
+         setHighlightedRowIndex(undefined);
     }
   };
 
@@ -119,7 +211,7 @@ function App() {
     file ? (
       <PDFViewer
         file={file}
-        boundingBoxes={MOCK_BOUNDING_BOXES} // We'd need real bbox data from backend to replace this
+        boundingBoxes={boundingBoxes}
         selectedRegionId={selectedRegionId}
         onRegionClick={handleRegionClick}
       />
