@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sparkles, TrendingUp, AlertCircle, FileText } from 'lucide-react';
-import type { SummaryInsight } from '../../lib/types';
+import type { SummaryInsight } from '../../lib/appTypes';
 import styles from './SummaryWidget.module.css';
 
 interface SummaryWidgetProps {

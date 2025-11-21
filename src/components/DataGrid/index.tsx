@@ -3,7 +3,7 @@ import { AgGridReact } from 'ag-grid-react';
 import type { ColDef, GridReadyEvent } from 'ag-grid-community';
 import 'ag-grid-community/styles/ag-grid.css';
 import 'ag-grid-community/styles/ag-theme-alpine.css';
-import type { ExtractedData } from '../../lib/types';
+import type { ExtractedData } from '../../lib/appTypes';
 import styles from './DataGrid.module.css';
 import { AlertTriangle } from 'lucide-react';
 

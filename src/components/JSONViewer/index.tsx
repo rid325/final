@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactJson from 'react-json-view';
-import type { ExtractedData } from '../../lib/types';
+import type { ExtractedData } from '../../lib/appTypes';
 import styles from './JSONViewer.module.css';
 
 interface JSONViewerProps {
