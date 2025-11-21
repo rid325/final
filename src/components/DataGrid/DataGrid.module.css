@@ -1,0 +1,23 @@
+.gridContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.errorCell {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    color: var(--error);
+}
+
+.cellValue {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.errorIcon {
+    color: var(--error);
+    margin-left: 0.5rem;
+}

@@ -1,0 +1,23 @@
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg-card);
+}
+
+.header {
+    padding: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-main);
+}
+
+.content {
+    flex: 1;
+    overflow: auto;
+    padding: 1rem;
+}

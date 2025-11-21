@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 64px);
+    /* Subtract header height */
+    overflow: hidden;
+    background-color: var(--bg-main);
+}
+
+.leftPane,
+.rightPane {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.leftPane {
+    background-color: #f1f5f9;
+    /* Slightly darker for document background */
+    border-right: 1px solid var(--border);
+}
+
+.rightPane {
+    background-color: var(--bg-card);
+}
+
+.resizer {
+    width: 6px;
+    background-color: transparent;
+    cursor: col-resize;
+    position: relative;
+    z-index: 10;
+    transition: background-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 -3px;
+    /* Negative margin to overlap borders */
+}
+
+.resizer:hover,
+.active {
+    background-color: var(--primary);
+}
+
+.handle {
+    width: 2px;
+    height: 24px;
+    background-color: var(--border);
+    border-radius: 1px;
+}
+
+.resizer:hover .handle,
+.active .handle {
+    background-color: white;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+        min-height: 100vh;
+    }
+
+    .leftPane,
+    .rightPane {
+        width: 100% !important;
+        height: 50vh;
+    }
+
+    .resizer {
+        display: none;
+    }
+}

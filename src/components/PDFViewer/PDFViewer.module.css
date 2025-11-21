@@ -1,0 +1,131 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #e2e8f0;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: white;
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+    z-index: 10;
+}
+
+.pagination,
+.zoomControls {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.toolBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border: none;
+    background: transparent;
+    border-radius: 4px;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.toolBtn:hover:not(:disabled) {
+    background-color: var(--bg-hover);
+    color: var(--text-main);
+}
+
+.toolBtn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pageInfo,
+.zoomLevel {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    min-width: 80px;
+    text-align: center;
+}
+
+.documentWrapper {
+    flex: 1;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.document {
+    box-shadow: var(--shadow-lg);
+}
+
+.pageContainer {
+    position: relative;
+}
+
+.page canvas {
+    display: block;
+    /* Remove bottom spacing */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    /* Let clicks pass through to boxes */
+}
+
+.boundingBox {
+    position: absolute;
+    border: 2px solid;
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+    pointer-events: auto;
+    transition: all 0.2s;
+}
+
+.boundingBox:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.01);
+}
+
+/* Color Coding */
+.table {
+    border-color: var(--table-green);
+    background-color: rgba(16, 185, 129, 0.1);
+}
+
+.chart {
+    border-color: var(--chart-blue);
+    background-color: rgba(59, 130, 246, 0.1);
+}
+
+.text {
+    border-color: var(--text-gray);
+    background-color: rgba(107, 114, 128, 0.1);
+}
+
+.selected {
+    box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.3);
+    z-index: 10;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--text-secondary);
+}
