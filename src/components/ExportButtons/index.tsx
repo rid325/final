@@ -2,7 +2,7 @@ import React from 'react';
 import { FileSpreadsheet, FileJson, FileText } from 'lucide-react';
 import Papa from 'papaparse';
 import * as XLSX from 'xlsx';
-import type { ExtractedData } from '../../lib/types';
+import type { ExtractedData } from '../../lib/appTypes';
 import styles from './ExportButtons.module.css';
 
 interface ExportButtonsProps {

@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
 import { ChevronLeft, ChevronRight, ZoomIn, ZoomOut } from 'lucide-react';
-import type { BoundingBox } from '../../lib/types';
+import type { BoundingBox } from '../../lib/appTypes';
 import styles from './PDFViewer.module.css';
 
 // Set worker source

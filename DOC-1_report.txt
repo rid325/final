@@ -1,0 +1,2075 @@
+================================================================================
+ANALYSIS REPORT
+================================================================================
+
+EXTRACTED TEXT:
+
+--- Page 1 ---
+TheOpen
+University
+Student
+Toolkit
+6
+more charts,
+graphs and
+tables
+
+--- Page 2 ---
+This publication has been written by Kathleen
+Gilmartin and Karen Rex and produced by the Student
+Services Communications Team on behalf of the Open
+University Centre for Educational Guidance and
+Student Suppore
+The Open University
+Walton Hall
+Milton Keynes
+MK7 6AA
+First published 2000
+oe can
+All rights reserved. No part of this publication may be
+reproduced, stored in a retrieval system, transmitted
+or utilized in any form or by any means, electronic,
+mechanical, photocopying, recording or otherwise,
+without written permission from the publisher or a
+licence from the Copyright Licensing Agency Led.
+Details of such licences (for reprographic reproduction
+may be obtained from the Copyright Licensing Agency
+Led f 9o Tottenham Court Road, London WiP OLP.
+Edited, designed and typeset by The Open University.
+Printed in the UK by Charlesworth & Co Ltd,
+Huddersfield
+SUP 581572
+
+--- Page 3 ---
+TheOpen
+University
+Student
+Toolkit
+6
+KathleenGilmartin
+andKarenRex
+more charts,
+graphs and
+tables
+
+--- Page 4 ---
+1 Introduction
+3
+2 Reflection on mathematics
+4
+3 Tables
+7
+4 Line graphs
+10
+5 Bar charts and histograms
+13
+6 Pie charts
+22
+7 Analysis
+26
+8 Technical glossary
+32
+9 Further reading and sources of help
+33
+10 Discussions to activities
+35
+
+--- Page 5 ---
+Do you sometimes feel confused about how to create a chart, graph or table?
+Are you not always sure which of these to choose to illustrate your set of data?
+Why do we produce charts, graphs and tables anyway?
+
+Spend a few minutes writing down what you think are the reasons why we choose to
+present data in this way before you read on.
+One student has said:
+If an exam or assessment question asks me to draw a chart or a graph,
+my heart sinks. I don't like tackling tables either. I only ever draw a graph
+if I absolutely have to.
+This booklet assumes that you have some experience in drawing conclusions from
+tables and graphs, understanding basic statistics and answering questions associated with
+charts, graphs and tables. The basics are covered in Student Toolkit 3 Working with
+Chorts, Grophs ond Tables but it is not essential to have read it before you start this
+booklet. Both booklets are in the Student Toolkit series, and there are others that can
+help you with use of English, essay writing, revision and exams, reading and note taking.
+and other study skilts. Your Regional Student Services will be able to tell you which
+would be appropriate to your needs.
+On any one day, if you look at a selection of newspaper or magazine articles, you will
+find that a number of them include a chart, graph or table. This is because a chart, graph
+or table is a way of making some information that the author wishes to convey to the
+reader more obvious. Charts and graphs are generally used to help illustrate the point
+that the article is trying to make, whereas a table is a useful way of presenting a lot of
+data in a clear and organized manner. All three can provide a summary of the situation
+under discussion so that even if the person looking at the article doesn't actually read all
+of it they can still get a feel for the argument that the author is presenting.
+As an Open University student, the number of charts, graphs and tables that you will be
+asked to create wil depend on your course. Many courses do not require you to do
+this at al, but others will expect you to be able to produce a chart, graph or table if
+necessary. Some courses with little mathematical, scientific or technical content still
+require you to analyse data presented in one or other of these forms and draw
+conclusions from them. This booklet is primarily aimed at those who are not confident
+about their ability to do these tasks and who wish to develop these skills.
+This is a practical booklet Section 2 first asks you to reflect on why you decided to
+request this booklet and what you hope to gain from it. The section then explores what
+your current course expects in the way of numerical work. Sections 3-6 respectively
+look at creating tables, line graphs, bar charts and histograms, and pie charts. Section 7
+is on analysing data. There is a technical glossary, and also some suggestions for further
+sources of help.
+We expect you to be an active learner and, as with your course material, we suggest
+that you work through this booklet with a pen and paper handy so that you can do the
+activities as you go. You will be able to see where we ask you to do some work by the
+pencil symbol in the margin.
+We anticipate that after you have worked through this booklet you will feel more
+confident about your abilities to produce charts, graphs and tables and to analyse data.
+Remember, though, that things do not happen instantly and that, as with any skill, it
+often takes time and practice to master it completely. If this booklet gives you a better
+understanding of how to present data, then it will have achieved its aim.
+
+--- Page 6 ---
+You will have decided to ask for this toolkit for your own reasons. We imagine that a
+common reason students will ask for this toolkit is a lack of confidence in their
+numerical work. However, we do not want to take this for granted. We have written
+this section to help you to look at your reasons, so that you can make plans to improve
+on one or more areas of mathematics and consider how you can work on the areas that
+you need to.
+y
+ACTIVITY I
+Before you start to work through the booklet itself, spend a few minutes thinking about
+why you felt that this toolkit would be helpful. In particular, answer the following
+questions.
+What made me decide to look for help?
+Why did it sound as if it would be useful?
+What do I hope to gain by using this toolkit?
+Don't spend too long on answering these questions. We suggest that you write down
+your answers before you look at our suggestions, and keep your answers to return to
+later, after you have done some work on the toolkit. Brief notes are enough. It should
+take you no more than 1520 minutes at most.
+Discussion
+The ideas below may be similar to yours or you may find them useful to add to your own.
+Your answers may be corpletely different, of course, and we are not suggesting that these
+are the 'right' ones — but we hope that they might act as a trigger for you to think about
+other things.
+What made me decide to look for help?
+There are, of course, many reasons why students decide to look for help. It depends on
+your ability and confidence in numerical work. We have spoken to other students and
+asked them this question, and some of their responses are given below.
+I am constantly worried about the use of maths  I always presume that I
+will get simple probfems wrong if numbers are invoived.
+I am aware that presumed difficulties with maths prevent me from
+attempting certain aspects of the course. Basic skiis couid heip my
+confidence, though i feel it may be too late to start.
+I am aware of an in-built resistance to doing anything invoiving figures!
+Why did it sound as if it would be useful?
+This may be more difficult to answer. It may be that you have read Student Toolkit 3
+Working with charts, graphs and tables and found it helpful. It may be that you feel that you
+understand a little about analysing and presenting data, but you are concered that this
+may not be enough for your course.
+You may feel that you need all the help that you can get and simply hope that this will be
+useful in some way that you can't yet define. We believe that the more you can decide on
+this sort of question at this stage, the more likely you will be to gain from using this toolkit.
+
+What do I hope to gain by using this toolkit?
+This depends very much on the reasons why you asked for this toolkit. However, you
+might have included things like the students quoted below.
+I can't draw graphs at afl and this material looks as if I will need to do this.
+I want to improve my confidence, and feel that I am doing it right, instead
+of worrying about it.
+I am not very confident with drawing graphs and pie charts, and I have a
+
+--- Page 7 ---
+I can handie tables, graphs, and bar charts and analyse them  I am just
+not interested in producing them. That must go back to early home
+background, I think. I am coming up to a section of my course where we
+are doing this, though, and I know that I need to learn.
+I am not very confident with statistics, and I know that I will need this for
+the next TMA.
+One reason that you are likely to be interested in this toolkit is that you realize your
+course will require you to carry out some calculations and you don't feel very confident
+about this. The next activity asks you to think about the use of mathematics in your
+current course. If you haven't started your course yet, skip Activity 2 for the moment
+and come back to it once you have made a start on your course.
+Nnt
+ACTIVITY 2 (PART I)
+Courses vary enormously in terms of their mathematical content and in this activity we
+suggest that you spend some time looking at your own course to gain an idea of the
+sort of mathematical knowledge needed.
+To begin with, took at a unit or block of your course and try to identify what the
+outcomes of that part of the course are. Different courses have different layouts: you may
+find the outcomes at the end of units, or in the Assignment Booklet, the Course Guide or
+separate block guides. Once you have found the outcomes, decide which of them are to
+do with mathematical understanding, knowledge or skilts. For example: they may say that
+you will be able to understand a particular concept, that you will be able to read and
+understand mathematics from tables, or that you will be able produce graphs and/or
+tables. Now make a list of the mathematics that you are being asked to learn. (You might
+need to clarify this with your tutor if you aren't sure about what is required or if
+numerical work is not mentioned. It may be that the ability to draw charts or graphs is
+assumed by the Course Team, but your tutor or a Regional Adviser wil know this.)
+Next, look at the assessment for that part of the course. It may include a TMA, CMA,
+an exarninable component or a specimen exam paper, depending on what stage you
+have reached in the course. Identify what specific mathematical understanding,
+knowledge or skills form part of the assessment. For example, your course may include
+project work as part of the assessment. This might include some form of quantitative
+assessment, perhaps presenting figures in charts or graphs once you have collected
+them.
+Discussion
+You should now have two lists, one of matheratical topics that are covered in that part of
+the course, and one of mathematical skills that are assessed. If you aren't sure about these,
+then you may need to either look at the block or unit in more detail, or talk to your tutor
+or other students. You could perhaps check this out through a FirstClass conference, if
+your course has one.
+ACTIVITY 2 (PART 2)
+Once you have made your lists, you need to decide on priorities. We suggest that you:
+decide on the areas that you need to learn
+make a list of these areas in order of priority (the areas may be, for example,
+mathematical concepts that you need to learn because they are needed for the
+course assessment)
+decide to tackle the one that you need to do in the short term as the first priority,
+then move on to others
+check the rest of this toolkit, to see if what you need is covered directly
+
+--- Page 8 ---
+Discussion
+Once you have made a list of those mathematical aspects that you need to leam and listed
+them according to priority, don't be discouraged if there seerns to be quite a lot that you
+need to do. This can be off putting, and you might feel that you want to give up, but by
+preparing a prioritized list you should be able to see what you need to tackle most urgently,
+and make a plan for that first. Then you can corne back to the rest when you need to.
+This toolkit may directly cover your priority areas. If it does, then we suggest that you
+turn first to the relevant part or parts in Sections 3-7. If it doesn't, try the list in Section 9
+'Further reading and sources of help'.
+What we have asked you to do in this section is to look at your experience of
+numerical work in the context of your experience as an OU student, as well as in the
+past. As you can see from the quotes we have given, other people feel unsure about
+their use of mathematics. But now you are ready to look at the rest of the toolkit and
+to move on to some practical work on your areas of concern.
+
+--- Page 9 ---
+What is a table?
+A table should provide a clear summary record of a collection of data. Tables have a
+number of columns and rows, depending on the amount of data and the detail shown.
+Tables are a very common way of putting information across to people, so common
+that we probably don't notice that they are there most of the time. On the other hand,
+they can look quite formidable when there is a lot of information presented at once, and
+finding your way around them can be hard. To be easy to read, all tables must have a
+title and sub-headings. Often, the text around the table will have detaits of where the
+information in the table has come from.
+When are tables used?
+Within your course, tables are likely to be used as a particular structured format to
+summarize numerical information. They tend to be used to present data as a summary
+and as a starting point for discussion. But someone always prepares tables. So always be
+aware of where the table that you are looking at has come from. Could the source be
+trying to tell you something in particular? For example, if a table were summarizing the
+costs of running a hospital, would you expect figures from the government or the local
+administrators to be more accurate? Why is that?
+When is a table not a good format to use?
+There are very few cases where a table will be the worst format to use. However, when
+you have a huge amount of data, you may wish to present some of it in a different
+format. Other formats for presenting data are explained in Sections 4-6.
+How do I design a table?
+As a student, you are likely to present data in a table after you have carried out an
+investigation, particularly when you are writing up the report. Some OU courses include
+a small-scale project and this is likely to be the point at which knowledge of how to
+design a table will be useful. The foltowing steps form a reliable guide.
+I Collect the data.
+In the case of a project, you are likely to collect the data yourself, possibly from
+other written sources (in which case, these should be acknowledged). Atternatively,
+you may have been presented with data and asked to design a table.
+2
+Decide on a clear title.
+As with all forms of representation, a clear title is crucial in representing your work
+accurately. It should be decided on early so that you remain clear about the
+information you wish to show.
+3
+Decide on the data to be presented.
+You need to be able to present data so that there is a helpful amount for someone
+make it difficult to reach conclusions from the figures.
+4
+Decide on the number of rows and columns.
+This depends on what you are trying to show in the table. Generally, the more
+columns there are, the fewer rows; and vice versa. Otherwise, the table may be
+unwieldy.
+
+--- Page 10 ---
+5
+Decide on the row and column headings.
+Do not be afraid to use simple headings that follow from the nature of your data
+and what your table is showing. Titles for column and row headings should be clear
+and unambiguous (like the title)
+6
+Draw the table outline.
+S
+ACTIVITY 3
+Imagine that you have been asked to investigate population growth in the EU. You might
+be considering the details of population growth or you may be thinking about
+representing the reasons for population growth.
+Follow the above steps to design and draw a table outline. Try to think briefly about
+aspects of population growth that might be represented before you follow the example
+in the discussion below. Remember that you are thinking about the design of a table
+here, you do not need to complete the table with data.
+Discussion
+1
+Collect the data.
+You would probably want to find data on population numbers, perhaps over a five- or
+ten-year period. You might also consider nurnbers of children that women in each coun-
+try might have, and informnation about mortality rates either among children or across al
+age ranges. You might consider emigration, immigration and population growth esti-
+mates. You may have thought of other things as well; these are only a guide.
+2
+Decide on a clear title.
+In this case, it could be either 'Population growth in the EU" or "Reasons for population
+growth in the EU', depending on the approach that you wish to take.
+3
+Decide on the data to be presented.
+What do you want the table to represent? How complex does it need to be in the
+context of your imaginary investigation?
+You might decide, for example, that a simple table of data about the population size ten
+years ago, today and an estimate for ten years' time (for each EU country) would be
+enough.
+Altematively, you might decide on something much more complex and look at all of the
+issues suggested above. If you do this, you need to decide on the fornat of the data. You
+would want something that makes comparisons easy, so you could think about using
+infortmation in a 'rate per Tooo' format. For example, the nurnber of children who die
+before the age of three, per tooo bom.
+4
+Decide on the total number of rows and colurnns.
+There will sixteen rows (one for the headings and one for each of the fifteen EU coun-
+tries at the timne of writing). There will be four colurnns (one for the list of countries and
+one for each set of population figures).
+5
+Decide on the row and colurnn headings.
+For the simple table 'Population growth in the EU", the EU countries column can be
+headed 'Country, the ten-year-old data column headed "Population in I989 (thousands)',
+the current data column headed 'Population in 1999 (thousands)' and the predicted data
+column headed 'Population in 20o9 (thousands) (Estimated)'. Each row starts with the
+name of an EU country.
+6
+Draw the table outline.
+
+--- Page 11 ---
+Population growth in the EU
+Country
+Population in 1989
+Population in 1999
+(thousands)
+Population in 2009
+(thousands)
+(thousands)
+(Estimated)
+Austria
+Belgium
+Denmark
+Finland
+France
+Germany
+Greece
+Irish Republic
+Italy
+Luxembourg
+Netherlands
+Portugal
+Spain
+Sweden
+United Kingdom
+This table design is easy to understand and clearly labelled. If it were in a project, it would
+be easy to see whether or not you had carried out the investigation that you were asked
+for.
+
+ACTIVITY 4
+Now try an example of your own. Imagine that you have been asked to measure the
+pulse rates of three volunteers on ten occasions, at five-minute intervals and design a
+table to show the results. As with the example above, you aren't expected to find the
+data that would go into the table, just to design an appropriate table in outline. Use the
+same six steps again.
+Discussion
+See Section 10, page 35.
+
+--- Page 12 ---
+This section covers line graphs. We define the format, give some ideas about when it
+should be used, and draw some graphs. You can have a go at drawing a line graph in
+Activity 6, based on data that we supply. The discussion for this activity is in Section I0.
+What is a line graph?
+A line graph, at its simplest, is a diagram that shows a line joining several points, or a line
+that shows the best possible relationship between the points. Sometimes the line will go
+through all of the points, and sometimes it will show the best possible fit. The line does
+not have to be a straight one; it can be a curve, though the techniques for drawing
+curved line graphs are beyond the scope of this toolkit.
+When are fine graphs used?
+A line graph shows a relationship between two variables. In other words, it shows how
+one thing varies by comparison to another. For example, a distance-time graph shows
+distance varying against the time of day, or the start time of a jourey. The distance
+increases when a vehicle is moving but remains the same when the vehicle is stationary.
+When is a line graph not a good format to use?
+When you have a large amount of data without an obvious link. For example, when your
+data shows shares of a whole, in which case, you would use a pie chart
+How do I draw a Iine graph?
+The process is as the steps below outline.
+I
+Collect the data.
+In other words, decide on the data that you wish to represent and collect it in a
+format that shows one value being compared with another.
+2
+Decide on a clear title.
+You may be able to use the heading of a table from which you are getting data.
+Alternatively, you may need to define the title yourself.
+3
+Decide on the values that you wish to show on the horizontal axis and on the
+vertical axis.
+When you are showing a relationship between two sets of values, one set always
+depends on the other and is called the dependent data. The set of values that is
+depended on is called the independent data. Line graphs are drawn so that the
+independent data are on the horizontal axis and the dependent data are on the
+vertical axis.
+Consider, for example, the growth (i.e. increase in height) of a tree over time or
+sales of washing powder over time. In these cases, both growth and sales depend
+on time. So, in both cases, time is the independent data and would be plotted on
+the horizontal axis; tree height or sales figures would be plotted on the vertical
+axis.
+Axes must always be clearly labelled.
+4
+Decide on the scale.
+This can make a surprising difference to the way that the data looks. Normally, you
+should begin the vertical axis from zero.
+5
+Plot the graph.
+It is most usual to use graph paper to do this; although you may decide to use a
+computer. The level of accuracy depends on what is required. A sketch needs to be
+much less accurate, although it will still need a title and labels for the axes.
+
+--- Page 13 ---
+es
+ACTIVITY 5
+Line graphs are commonly used to show a direct relationship between data. For
+example, graphs for conversions between one amount and another, such as degrees
+Celsius and degrees Fahrenheit.
+Table I
+Conversion of pounds stering to euros based on the exchange rate in February
+2000
+Currency
+Equivalent units
+7
+I
+2.5
+4
+7
+8.6
+10
+12
+euro (to 3 d.p)
+0.623
+1.555
+2488
+4.354
+5.349
+6.220
+7.464
+1
+Collect the data.
+The data is given in Table I.
+2
+Decide on a clear title.
+Conversion of pounds sterling to euros (February 2000).
+3
+Decide on the values that you wish to show on the horizontal axis and the vertical
+axis.
+As this is a conversion from pounds to euros, the number of euros is dependent on
+the number of pounds. Therefore, euros are the dependent values and pounds are
+the independent values, so you should plot pounds on the horizontal axis and euros
+on the vertical axis. Remember to label the axes clearly.
+4
+Decide on the scale.
+Given the data, it looks sensible to begin both axes from zero. The horizontal axis
+needs to go up to at least I2, so a sensible scale is 0 to I3 in steps of one. The
+vertical axis needs to go up to almost 8, so a likely scale is O to 8 in steps of one.
+5
+Plot the graph (Figure I).
+8
+6
+Euros
+4
+2
+0
+5
+10
+Pounds sterling
+Figure I Conversion of pounds sterling to euros (February 20oo)
+V
+ACTIVITY 6
+When line graphs are drawn, the scale can often be misleading. Sometimes the graph
+seems to show something rather different from the data. This may be deliberate, to
+make a point, but sometimes it is accidental, perhaps because the author does not
+understand the best way to draw a graph.
+To show you what we mean, we would tike you to use the data in Table 2 to draw two
+line graphs — both for the total turnover from June to November I999, but one with
+the vertical axis starting at £6.5 billion and the other with it starting at zero.
+
+--- Page 14 ---
+Table 2
+Totol engineering turnover figures at current prices (£ billion)
+6661
+Total turnover
+Home turnover
+Export turnover
+(£ billion)
+(£ billion)
+(£ billion)
+June
+8.1
+4.6
+3.5
+July
+7.2
+4.2
+3
+August
+7.1
+4.2
+2.8
+September
+8.3
+4.8
+3.5
+October
+7.6
+4.4
+3.2
+November
+8.3
+4.9
+3.5
+Source: Office for National Statistics, Engineering Tumover and Orders, Noverber 1999
+Discussion
+See Section 10, page 35.
+
+ACTIVITY 7
+What difference can you see between the two graphs you drew in Activity 6?
+Discussion
+See Section 10, page 36.
+
+--- Page 15 ---
+This section covers bar charts and histograms. We define each of these formats, give
+some ideas about when each should be used, and draw some charts and histograms.
+You can have a go at drawing a bar chart in Activity 9 and a histogram in Activity 13,
+based on data that we supply. The discussions for these activities are in Section 10.
+Bar charts
+What is a bar chart?
+A bar chart is a diagram in which the numerical values of the different variables are
+represented by the height or length of lines or rectangles of equal width. The bars or
+lines can be drawn vertically or horizontally.
+Figure 2 shows three bar charts ilustrating the same data: the first has vertical bars, the
+second horizontal bars and the third has lines instead of bars.
+88
+Number of cars sold
+green
+blue
+Colour
+white
+10
+silver
+5
+red
+D
+red
+silver
+white
+blue
+green
+5
+10 15 20 25 30 35 40
+(a)
+Colour
+(b)
+Number of cars sold
+green
+blue
+Colour
+white
+silver
+red
+0
+5
+10 15 20 25 30 35 40
+(c)
+Number of cars sold
+Figure 2 Popular car colours: three voriotions on the same bor chort
+When are bar charts used?
+A bar chart is a good method of representation if you want to illustrate a set of data in
+a way that is as easy to understand as it is simple to read. In general, a bar chart should
+be used for data that can be counted so, for example, we could use a bar chart to show
+the number of families with o, I, 2 or more children. A bar chart could also be used to
+show how many people in one area use each of the different modes of transport to get
+to work.
+Bar charts are very useful for comparing two or more sets of data, as you will see later.
+For example, the popularity of different modes of transport in two cities, or from one
+year to the next.
+When is a bar chart not a good format to use?
+A bar chart is not the best way to show the link or mathematical relationship between
+two sets of data, for this you would use a line graph.
+
+--- Page 16 ---
+How do I draw a bar chart?
+First, you need to decide what it is you want your chart to illustrate. This may be
+governed by the data you have access to or you might need to collect the data yourself.
+Then the process is as below.
+1
+Decide on a clear title.
+The title should be a brief description of the data that you want to show.
+2
+Identify how many bars are needed.
+The bars correspond to the number of categories you have. For instance, if you are
+looking at modes of transport then you might need six bars covering car, bus, train,
+motorbike, cycle or walk. A chart about the number of children per family might
+have eight bars for 0, 1, 2, 3, 4, 5, 6 and 7 or more.
+Bar charts can be drawn using either horizontal or vertical rectangles or lines.
+There are no rules governing which to use, but if the labels for the categories are
+quite long. they will easier to read if the bars are on the vertical axis.
+3
+Identify the scale you need for the other axis.
+Look at each category and decide which is the largest; the other axis has to go up
+to at least this value. You might also find it useful to check the value of the smallest
+category, so that you choose a scale to accommodate all the values. The scale
+should start at zero.
+4
+Draw and label the two axes.
+The labels should be simple and as clear as possible. The units should also be
+shown, if appropriate.
+5
+Add the bars.
+In a bar chart, strictly speaking, the bars should not touch; each one should be a
+separate rectangle. The gap between the rectangles or lines serves to show that the
+categories are distinct. You can use a solid line instead of a rectangle or bar, but
+you will not see this type of bar chart very often.
+Vy
+ACTIVITY 8
+You should now follow our calculation of a bar chart from the information in Table 3.
+Table 3
+Average distonce traveiled
+per person per year in Paris
+Mode of transport
+Km
+walk
+244
+local bus
+297
+rail
+336
+cycle
+44
+1
+Decide on a clear title.
+The title of Table 3 is appropriate.
+2
+Identify how many bars are needed.
+and walk.
+Given the short labels that willbe needed for the bars, they could easily go on the
+horizontal axis.
+3
+Identify the scale you need for the other axis.
+Tal covistan  neabl ighe aus
+axis, the distance scale will be on the vertical axis.
+
+--- Page 17 ---
+4
+Draw and label the two axes.
+The labels are simply 'Kilometres' or "Km' for the vertical axis and 'Mode of
+transport' for the horizontal axis.
+5
+Add the bars.
+Remember to keep the bars separate and to label each one clearly (Figure 3).
+400
+350
+300
+250
+Kilometres
+200
+150
+100
+50
+0
+walk
+local bus
+rail
+cycle
+Mode of transport
+Figure 3 Averoge distance travelied per person per year in Paris (i)
+Discussion
+This bar chart has been drawn using vertical bars or rectangles and with a vertical scale of
+0400 in steps of 50. The order of the bars reflects the order in which the categories were
+given in the data table, but many people would have chosen to put the bars in order of
+size, either descending or ascending. Generally speaking, unless the order is obvious from
+the categories, for example different years, it doesn't matter what order you use.
+This bar chart could also be drawn with horizontal bars as in Figure 4.
+cycle
+Mode of transport
+rai
+local bus
+walk
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Kilometres
+Figure 4 Average distonce traveiled per person per yeor in Paris (ii)
+As you can see, it is not possible to use either of these charts to read off accurate figures
+for the number of miles travelled per person per year using any of the modes of transport
+shown. However, both charts give a good idea of the approximate nurnber of miles
+travelled using each mode of transport and show how each of the modes of transport
+compare.
+If it is important that the reader knows exactly what the distances are, either the scale
+should be such that the values can be read off accurately (this is not always practical or
+possible) or the values should be inserted at the end of each of the bars (Figure 5).
+
+--- Page 18 ---
+400
+350
+336
+300
+297
+250
+Kilometres
+244
+200
+150
+100
+50
+44
+0
+walk
+local bus
+rail
+cycle
+Mode of transport
+Figure 5 Average distonce traveiled per person per year in Paris (iii)
+Bar charts can be used to compare two sets of data. Suppose you wanted to compare
+the data for average distances travelled per person per year in Paris with similar data for
+London (shown in Table 4).
+Table 4 Average distonce traveiled
+per person per year in London
+Mode of transport
+Km
+walk
+281
+local bus
+353
+rail
+784
+cycle
+45
+By following the same steps with the London data as with the Paris data, you could put
+both sets of bars on the same graph, but note that you would need to change the scale
+on the vertical axis to accommodate the much greater distance travelled by rail in
+London. The bar chart comparing the two sets of data looks like Figure 6.
+1000
+800
+Kilometres
+600
+400
+200
+0
+Paris
+London
+walk
+local bus
+rall
+cycle
+Mode of transport
+
+--- Page 19 ---
+
+ACTIVITY 9
+Now try drawing a bar chart using the same steps and the information in Table 5.
+Table 5
+Attendonce at cultural events in Greot Britoin, 199394
+Cultural event
+percentage of the adult population
+(attending regularly or occasionally)
+plays
+24
+ballet
+7
+contemporary dance
+3
+opera
+7
+classical music
+12
+jazz
+6
+art gallery
+22
+cinema
+50
+The most popular activity is going to the cinema; going to a play and visiting an art
+gallery are the next most popular activities.
+Discussion
+See Section 10, page 36
+Discrete and continuous variables
+You may have been wondering why bar charts are generally drawn with separate bars.
+There is a reason for this and to discover what it is, you need to look at the nature of
+the categories of data being used.
+Discrele variables
+The charts about different modes of transport and that on attendance figures at a range
+of cultural events all use what might be called 'word categories'. Each category (e.g. bus,
+rail, cycle, and walk) is quite distinct from any other in the set of categories. Such
+distinct categories are known in mathematics as "'discrete variables'.
+Word categories are not the only type of variable that is discrete; numbers can also be
+discrete. For example, at the beginning of this section, we mentioned that you could use
+a bar chart to plot the number of families with o, I, 2 or more children. Here, the
+number of children in a family is a discrete variable. So too are the number of goals
+scored per match by a football team, and the number of bedrooms in a house. Bar
+charts are normally drawn with separate bars in order to emphasize the discrete nature
+of the data.
+Discrete variables often relate to counted items.
+Continuous variables
+Not all numbers are discrete. Consider the following measurements:
+times to run a marathon
+Itemperatures recorded at intervals during a day
+I weight of each bunch of grapes sold at a supermarket yesterday.
+Time, temperature and weight are all examples of numerical data, but there is not a
+restricted set of values that they can take. Whereas you can have 2 or 3 children in a
+family but not 2.5, with temperature it is possible to have not only 22 °C and 23 °C but
+
+--- Page 20 ---
+also 22.1 °C, 22.25 °C, 22.97 °C as well. This type of variable is restricted only by the
+accuracy with which the measurement can be made. Such variables are known as
+'continuous variables'.
+Continuous variables often relate to measured items.
+W
+ACTIVITY 10
+Consider a randomly selected group of students living in the UK and continental
+Western Europe. You could collect information about, say, their hair colour and their
+occupation. What other characteristics of this group could you collect information
+about?
+Discussion
+Here is our list, you may be able to think of others: sex, age, height, number of children,
+weight, shoe size, year of birth, nearest city, colour of eyes, first language, country of birth.
+Each of these characteristics or variables will produce different sets of data, and each
+member of the group of students is likely to be different from at least one other member
+of the group for each of these variables. Some variables will have very few categories (e.g
+sex has only two: male and fernale) and others too many to list (e.g, nearest city could
+include any city in Europe).
+As
+ACTIVITY II
+Now look at your list of variables for the students living in the UK and continental
+Western Europe and decide which are discrete and which are continuous.
+Discussion
+Here is our list:
+−
+discrete variables
+sex
+— number of children
+- shoe size
+- nearest city
+— colour of eyes
+— first language
+- country of birth
+— year of birth
+continuous variables
+- age
+- height
+- weight
+You might have found it difficult to decide where to put the variable year of birth'. A year
+is a measurement of time and could be considered as a continuous variable. However, it is
+usual to consider a year as a whole number and record inforation relating to a complete
+year, which is why we have listed year of birth' as a discrete variable. There are no hard
+and fast rules about this; you will find the variables 'year' and 'year of birth' considered as
+both discrete and continuous variables.
+
+--- Page 21 ---
+Histograms
+What is a histogram?
+The simplest definition of a histogram is that it is a bar chart with the adjacent bars
+touching each other. Untike a bar chart, histograms are usually drawn only with vertical
+bars. Generally, histograms are used to illustrate continuous data whereas bar charts
+are used to illustrate discrete data (distinct categories).
+When are histograms used?
+A histogram is also a good method of representation if you want to illustrate a set of
+data in a way that is as easy to understand as it is simple to read. A histogram should be
+used for data that is continuous or has been measured on a continuous number scale.
+For example, you could use a histogram to show the number of live births by age of the
+mother or the pulse-rates of a group of I00 students (Figure 7). The pulse-rates have
+been grouped into intervals of 5 and represent values from 55 to 104 beats per minute.
+30
+Number of students
+8
+15
+10
+5
+C
+55-59 60 64 6569 7074 7579 80-84 8589 90-94 9599 100-104
+Putse rale (beats per mintule)
+Figure 7 Pulse-rates of a group of s00 students
+When is a histogram not a good format to use?
+A histogram is not the best way to show a link or mathematical relationship between
+two different sets of data.
+How do I draw a histogram?
+The method for drawing a histogram is very similar to that for a bar chart, but with the
+important difference that the bars or rectangles touch.
+1
+Decide on a clear title.
+The title should describe the data you want to illustrate.
+2
+Identify how many bars are needed along the horizontal axis.
+The bars correspond to the number of categories you have. Most histograms have
+intervals that are the same size but occasionally you may be asked to draw one with
+intervals of differing sizes. It is very important that you always check the size of
+each interval, as the width of each rectangle should correspond to its interval size.
+The histogram showing pulse rates (above) has equal intervals of 5.
+3
+Identify the scale you need for the vertical axis.
+The size of the largest category determines what value the vertical scale needs to
+go up to. It is usual to then mark off intervening values at regular intervals on the
+vertical axis. However, the size of these regular intervals will probably be
+determined by the sizes of the other categories. The scale should start from zero.
+4
+Draw and label the two axes.
+The labets should be simple and as clear as possible. The units should be shown, if
+appropriate.
+
+--- Page 22 ---
+5
+Add the bars.
+The bars of a histogram touch each other but should be visually distinct This serves
+to illustrate that the data is continuous and is divided into a number of related
+categories.
+-000oo
+ACTIVITY 12
+You should now follow our calculation of a histogram from the information in Table 6.
+100 people were asked to record exactly how much time they spent watching television
+during one particular weekend in June. The results are given in Table 6, which is
+untitled.
+Table 6
+Hours
+Number of people
+0.000.99
+7
+1.001.99
+19
+2.002.99
+24
+3.003.99
+32
+4.004.99
+10
+5.005.99
+5
+6.006.99
+3
+1
+As the title should describe the data, we chose "Number of hours of television
+watched by I00 people'. This title would fit both Table 6 and the histogram we
+want to draw.
+2
+There are seven categories, so we need seven bars along the horizontal axis. The
+intervals are all the same size.
+3
+The scale for the vertical axis depends on the number of people in each category:
+the smallest number is 3, the largest is 32, so the scale can run from 0 to 35 in
+intervals of 5.
+4
+The vertical axis should be labelled 'Number of people' and the horizontal axis
+'Hours'.
+5
+The bars are all the same width (because the intervals on the horizontal axis are all
+the same) and should touch each other (Figure 8).
+8888
+Number of people
+0.00-0.99
+1.00-1.99
+2.002.99
+3.00-3.99
+4.004.99
+5.005.99
+6.006.99
+Hours
+Figure 8
+Number of hours of television wotched by Iod people
+
+--- Page 23 ---
+H
+ACTIVITY 13
+Now try drawing a histogram using the same steps and the information in Table 7
+(untitled). The data in Table 7 is from 1 997 and gives the number of live births per 1000
+women in the UK.
+Table 7
+Age group of mother in years
+Live births per Teoo women
+15-19
+30
+20-24
+75
+2529
+104
+30-34
+89
+35-39
+39
+40 44
+7
+Discussion
+See Section 10, page 37.
+
+--- Page 24 ---
+This section covers pie charts. We define the format, give some ideas about when it
+should be used, and draw some charts. You can have a go at drawing a pie chart in
+Activity 16, based on data that we supply. The discussion for this activity is in Section I0.
+What is a pie chart?
+A pie chart is a circular chart (pie-shaped); it is split into segments to show percentages
+or the relative contributions of categories of data.
+When are pie charts used?
+A pie chart gives an immediate visual idea of the relative sizes of the shares of a whole.
+It is a good method of representation if you wish to compare a part of a group with the
+whole group. You could use a pie chart to show, say, advertising income, or market
+shares for different brands, or different types of sandwiches sold by a store. Pie charts
+don't give very detailed information, but they do give a quick overall impression of your
+results. You can add more information into pie charts by inserting figures into each
+segment of the chart, or by giving a separate table as a reference. Pie charts are also
+useful for comparing two different things. For example, the share of goods that different
+supermarkets sell.
+When is a pie chart not a good format to use?
+A pie chart is not a good format for showing increases and decreases, numbers in each
+category, or direct relationships between numbers where one set of numbers depend
+on another. In the last case, a line graph would be a better format to use.
+How do I draw a pie chart?
+You must have data for which you need to show the proportion of each category as a
+part of the whole. Then the process is as below.
+1
+Collect the data so the number per category can be counted.
+In other words, decide on the data that you wish to represent and collect it all
+together in a forrat that shows shares of the whole.
+2
+Decide on a clear title.
+The title should be a brief description of the data that you wish to show. For
+example, if you wish to show market share of brands of washing powder, you could
+call the pie chart 'Percentage market share of named brands of washing powder in the
+UK in (date)'.
+3
+Decide on the total number of categories.
+In other words, identify the categories that you will use. For example, with washing
+powder, there may be dozens of brands on the market, but most of the share of the
+market will be held by, say, half a dozen brands. Therefore, you might decide on those
+six along with a category called other. It depends very much on what you are trying
+to show, but pie charts are likely to be clearest with no more than eight categories.
+4
+Calculate the degree share in each category.
+First, add up the total number of instances that you have. For example, in the case of
+washing powders, the total number of instances might be the number of units sold in
+a year, so the share of the whole for each category would be the number of units
+sold in that category. To calculate degree share, you need to divide the share that the
+category has by the total units and then multiply by 360 (there are 360 degrees () in
+a circle).
+So, if there are 200 units in all, and:
+40
+category A has 40 units, its degree share =
+200
+x 360 = 72°
+
+--- Page 25 ---
+category B has 80 units, its degree share =
+80
+200
+× 360°= 144
+category C has 50 units, its degree share =
+so
+200
+x 360°= 90°
+category D has 30 units, its degree share =
+30
+200
+× 360°= 54°
+5
+Make a final check that the number of degrees adds up to 36o, then draw the pie
+chart.
+
+ACTIVITY 14
+To see what we mean, you should follow our calculation of a pie chart using the data in
+Table 8.
+Table 8
+1992 Ilinois population by race (raw dota)
+Race
+Number of people (thousands)
+African-American
+1756
+Asian, Pacific Islander
+322
+Caucasian
+9511
+Native American
+25
+total population
+11614
+Source: Statistical Abstract of the US 1 99697, Table No. 35
+I
+Collect the data so the number per category can be counted.
+Table 8 shows the data.
+2
+Decide on a clear title.
+Title: '1992 tllinois population by race (thousands)".
+3
+Decide on the total number of responses.
+The number of categories is four (the four races).
+4
+Calculate the degree share in each category.
+As an example, here is the calculation of the degree share for African-Americans:
+1756
+11614
+x 360 = 54 (to nearest whole degree).
+The degree share for each category is shown in Table 9.
+Alternatively, you could calculate the percentage share of each category.
+Percentage share is calculated as follows (for the share of African-Americans):
+1756
+11614
+x 100 = 15 (to nearest whole number).
+Table 9 t9g2 Mlinois populotion by race (raw dato and degree shore to nearest
+whole number)
+Race
+Number of people
+Degrees
+(thousands)
+(to nearest degree)
+AfricanAmerican
+1756
+54
+Asian, Pacific Islander
+322
+10
+Caucasian
+9511
+295
+Native American
+25
+I
+total population
+11614
+360
+If you are working by hand, it is best to work to the nearest whole number because
+it is hard to be more accurate than this when drawing. Make a final check that the
+number of degrees adds up to 360, then draw the pie chart (Figure 9). If you are
+using a computer to draw the chart, the raw data will be enough and the computer
+will do the calculation for you.
+
+--- Page 26 ---
+Aslan, Pacific Istander
+Native American
+African-American
+Caucasian
+Figure 9 1992 fllinois population by race (thousands)
+Discussion
+It is not easy to see all the segments in Figure 9 as the Native Arnerican group is so much
+smnaller than the others. To make the shares clearer, it is usual to draw an exploded pie
+chart (Figure 10).
+Asian, Pacific islarder
+Native American
+Alrican-American
+Caucaslan
+Figure t0 1992 Minois population by race (thousands)
+
+--- Page 27 ---
+Non o n
+ACTIVITY 15
+What do you think Figure I0 shows us?
+Discussion
+See Section 10, page 38.
+
+ACTIVITY 16
+Now you can try drawing up a pie chart for yourself from the information below.
+The Retail Price Index (RPl) is a UK index that looks at the expenditure habits and costs
+in the UK of a "basket' of goods. The basket contains all the consumer goods that an
+'average' household can expect to buy over time, 60o in total. Two groups of
+households are excluded from this, to make it more representative: pensioners and the
+high earners. 120,oo0 measurements are taken each month. The index is calculated
+monthly, and you may be aware of it as the basis for the monthly headline inflation rate.
+The 600 consumer goods are split into areas of general consumption, such as food or
+housing. Table I0 shows some data on the relative expenditure of an 'average'
+household on goods in the housing sector of the basket The relative expenditure on
+each of these goods is expressed in terms of a weight So, for example, Table I0 shows
+that in I998, in the 'average' household, three times as much was spent on council tax
+and rates as was spent on repairs and maintenance. As can be seen from the table, these
+weights change from year to year as expenditure changes. This is just a part of the data
+from the RPI.
+Table 10 Consumer price indices housing weights
+Consumer price index
+Weight 1998
+Weight 1999
+housing
+197
+193
+rent
+47
+47
+MIPS
+45
+42
+Council Tax and rates
+30
+33
+water and other charges
+12
+12
+repairs and maintenance charges
+10
+I0
+DJY materiats
+|4
+12
+dwelling insurance and ground rent
+7
+7
+house depreciation
+32
+30
+Source: Office For Natianal Statistics, Consumer Price Indices January 20ODo, Briefing Notes - Part 3, RPy & HICP
+Detailed Briefing, published 15 February 2000
+Using the steps we have shown you, try to draw a pie chart using the I998 data.
+Discussion
+See Section 10, page 38.
+
+--- Page 28 ---
+Charts, graphs and tables are all very helpful ways of representing a set of data.
+However they are not the only ways of passing on information about data. This section
+looks at how you can analyse a set of data to summarize the given information as briefly
+and simply as possible.
+Essentially, there are two features of a set of data that enable summarizing: the average
+and the spread. This section starts by looking at what is meant by 'average'. If you have
+atready read Student Toolkit 3 Working with Charts, Graphs and Tables, this will be
+familiar to you. However, we recommend that even if you do not read this part, you do
+try Activity 17. The section then considers frequency tables before moving on to look at
+spread.
+Averages
+Mean, median and mode
+The mean, median and mode are all types of average and are typical of the data they
+represent. Each has advantages and disadvantages, and can be used in different
+situations, but they all give us an idea of the general size of the values involved. Here we
+provide brief definitions, and some idea of when each should be used.
+The following set of data is the number of mites (to the nearest mile) walked in a week
+by a group of students. You are going to look at how to calculate the mean, median and
+mode of these values.
+Data set A: 1, 2, 2, 3, 4, 5, 5, 6, 6, 6, 6, 9, 11, 12, 14, 15
+Mean
+The mean is found by adding up all the values in a set of numbers and dividing that total
+by the number of values in the set.
+For data set A, the total is 107. There are I6 values, so you need to divide I07 by I6.
+This gives 6.6875. So, the mean of this set of data is 6.6875 miles.
+You also need to consider to how many decimal places you should quote. It is unlikely
+that the distance walked by each of the students would have been a complete number
+of miles, but the actual values have been rounded to the nearest whole number. As a
+result, you can only give the mean correct to one decimal place, or even to the nearest
+mile. Rounding 6.6875 to one decimal place gives 6.7 miles. If you look at the data, you
+will see that 6.7 seems to be quite a good average measure of these values.
+Many people would choose to calculate the mean of a set of data if they wanted to get
+an idea of a typical value of the set, but there are times when the mean isn't as
+representative as you would like. For instance, if one of these students were a very keen
+walker, the largest value could have been, say, 50 miles not 15. If you replace the i5 by
+50 and then recalculate the mean, the answer you get is 8.875 or 8.9 correct to one
+decimal place. Thus, the one value of 5o has significantly increased the value of the mean
+such that it is now less representative of the group of data as a whole.
+Another problem with using the mean is that sometimes when you calculate the mean
+of a set of data, the value you get is difficult to interpret. For example, if you calculate
+the mean number of children in a group of families, you could get a value like 2. 1 or 2.3.
+Of course, it is not possible to have 2.3 children.
+Median
+The median is the middle value of a set of numbers arranged in ascending (or
+descending) order. If the set has an even number of values, then the median is the mean
+
+--- Page 29 ---
+Data set A is already in ascending order: 1, 2, 2, 3, 4, 5, 5, 6, 6, 6, 6, 9, 11, 1, 13, 16
+This is a set of I6 numbers, so the median is the mean of the two middle numbers,
+which are underlined (8h and 9h data values); the median is:
+{6+6)÷2=6
+In some ways, this value is more representative of the group. For data set A, the median
+telts us that half the group walk 6 miles or less and half the group walk 6 miles or more.
+Here it doesn't matter what the largest (or the smallest) value is; if the largest value
+were 50, the median would still be 6.
+Mode
+The mode (or modal value) is the most popular value in a set of numbers, that is the
+one that occurs most often.
+Looking at data set A, you can see that the mode is 6. In other words, more people
+walked 6 miles than any other distance.
+The value of the mode, like the median, is not affected by any particularly large or small
+values in the set.
+While every set of data has a mean and a median, it is not always possible to find a
+mode. Some sets of data have only single instances of each value, other sets of data have
+more than one value that occurs equally often.
+DN w
+ACTIVITY 17
+The following set of data is the number of hours (to the nearest hour) of television
+watched by a group of students in a week.
+8, 6, 2, 3, 6, 0, 5, 7, 3, 9, 1, 0, 5, 12, 6
+Calculate the mean, median and mode.
+Discussion
+See Section 10, page 40.
+In Section 5, you looked at discrete and continuous variables. Table I 1 summarizes
+which of the types of average can be used with which type of variable.
+Toble I I Surnmary of use of mean, median ond mode with eoch type of voriable
+Variable
+Mean
+Median
+Mode
+Discrete -
+not possible
+only if you can
+works for most types of
+word category
+order the data
+category data
+Discrete — numerical
+OK but answer may
+OK
+OK if at least one of the
+be difficult to interpret
+values occurs more than
+(eg, 2.3 children)
+once
+Continuous
+OK
+OK
+data needs to be
+grouped
+
+--- Page 30 ---
+Frequency tables
+S av o  alc liy .
+Naturally, this is not always the case and you need to consider how to work with a
+larger set of data. Data set B shows 30 TMA scores recorded by a tutor in the order
+that the scripts were marked.
+Data set B:
+86
+78
+93
+89
+65
+92
+84
+66
+91
+90
+85
+87
+92
+73
+90
+84
+79
+60
+87
+96
+81
+42
+56
+84
+92
+53
+85
+88
+74
+77
+An array of scores, presented tike this is hard to read and to interpret, so you need to
+rewrite the information in a way that makes it easier to understand.
+First, arrange the 30 scores in (ascending) order of size:
+42
+53
+56
+60
+65
+66
+73
+74
+77
+78
+79
+81
+84
+84
+84
+85
+85
+86
+87
+87
+88
+89
+90
+90
+91
+92
+92
+92
+93
+96
+Now that the data has been arranged in order it is called a distribution.
+If you look at this distribution, you can see that all the scores tie between 42 and 96,
+and you can find the median. In this case, the median is the mean of the ISth and 16th
+scores (underlined above):
+(84 + 85) ÷2 = 84.5
+In order to find the mean score, you need to add up all the scores and divide by 30.
+This is a fairly laborious task so you don't have to do this unless you want to check our
+answer. The total of all the scores is 2399 and, as there are 30 scores, the mean for this
+set of data is 8o (to the nearest whole number).
+It is not possible to find the modal score for this set of data as there are two scores
+that occur three times, 84 and 92.
+Even with the mean and the median for data set B, it is still quite difficult to get a feel for
+the distribution of these scores. There is one further thing that you can do and that is
+to group the data into 10-mark intervals.
+Score
+Number of students (frequency)
+40-49
+I
+50-59
+2
+60-69
+3
+7079
+5
+8089
+II
+90-99
+8
+This is called a grouped frequency distribution. It makes the overall pattern of the data
+more clear but you have now lost information about the individual scores.
+If you now draw a graph using this information, the pattern will be even clearer. Note
+that, as this data has been grouped into intervals of Io, you should use a histogram to
+illustrate this data (Figure 11).
+
+--- Page 31 ---
+~∞N
+Number of students
+0
+4049 5059 6069 7079 8069 9099
+Score
+Figure 1I Student TMA scores
+Although there is no modal value for the individual values of data set B, you can now
+see that there is a modal group or class. This is the group of scores 80-89.
+It is not possible to find the precise value of the median from the frequency distribution
+or histogram. The best you can do is to identify the group that contains the median by
+adding up the frequencies of each of the groups until you have included the 15th and 16th
+score. The total of the first four groups is I 1 and for the first five groups is 22 so that
+the 15t and 16th scores must fall within the fifth group, which is the modal group 80-89.
+From the histogram and frequency distribution, you can see that most of scores fall in
+the upper two groups, 80-89 and 90-99. However, the value of the mean was 80, which
+is at the lower end of these groups. This set of values has a small number of rather low
+scores and these have the effect of pulling down the mean as compared to the median.
+This effect is similar to that of the large distance walked by one of the group of students
+affecting the value of the mean in data set A.
+Spread
+Range and inter-quartile range
+So far in this section, you have seen that the mean, median and mode can all give a
+useful typical value of a set of data. However, there is further information that you can
+get from a set of data which can help to complete the picture.
+Consider the following two sets of data.
+Data set C: I13, 48, 26, 99, 64 The number of runs scored by a cricket batsman in a
+5-week period.
+Data set D: 72, 69, 74, 71, 70 A person's pulse first thing in the morning, measured
+over 5 days.
+The mean for data set C is 70 and the mean for the data set D is 71.2.
+
+ACTIVITY 18
+What do you think is the most striking difference between these two sets of data?
+Discussion
+You might have said that the values in the first set are quite varied but the values in the
+second set are all very sirnilar to one another. This is an important difference between the
+two sets of data.
+It is useful to calculate the range of a set of values.
+The smallest value in data set C is 26 and the largest is I13, so the range is I13 - 26 = 87.
+The smallest value in data set D is 69 and the largest is 74, so the range is 74 - 69 = 5.
+
+--- Page 32 ---
+The range is easy to calculate and gives you a rough idea of how spread out the values
+in a set of data are. However, it does need to be treated with caution. The range
+depends on the two extreme values in a set of data and it is quite possible that one or
+both of them is untypical of the set.
+Aon
+ACTIVITY 19
+Here are two sets of data. Which would you say was the more spread out?
+Data set E: 1, 3, 4, 4, 7, 8, 10, 14, 15, 17, 17, 20
+Data set F: 1, 8, 8, 8, 9, 9, 9, 10, 11, 11, 11, 20
+Discussion
+The range of both these sets of data is 20 - I = 19. However, data set E is more spread
+out than the data set F. Clearly, you need sore way of spotting this, especially if you have a
+large number of values in your set of data.
+In order to get a more accurate picture, you need to calculate a smaller range, nearer
+to the middte of the distribution, which avoids the extreme values.
+The range to use is based on the quartiles of the distribution and is called the inter-
+quartile range. You already know how to find the median, which divides the set of
+values into two equal parts, so you now need to divide each of these two parts into two
+equal parts to get the quartiles. You might like to think of the quartiles dividing the
+range into quarters or four parts.
+Consider data set E again:
+1, 3, 4, 4, 7, 8, 10, 14, 15, 17, 17, 20
+The median of this set of data is the mean of the two underlined numbers:
+(8 + 10)÷2= 9.
+You now need to find the median of the first 6 values in the set; this value is
+(4 + 4) ÷ 2 = 4. The median of the second 6 values is (15 + 17) ÷ 2 = 16.
+Thus, data set E can be divided into four parts by the three quartiles, Q, Q and Q3
+with the second, Q2, having the same value as the median. The values used to calculate
+the quartiles are underlined.
+1, 3,4
+4, 7, 8
+10, 14, 15
+17, 17, 20
+Qj = 4
+Q2= 9
+Q3 =16
+Note that medians and quartiles may or may not be equal to one of the data values. You
+can now calculate the inter-quartile range, Q3 - Qj: 16  4 = I2. This gives a measure
+of the spread of the middle So% of the data values.
+V
+ACTIVITY 20
+Using data set F, calculate the quartiles and the inter-quartile range.
+Data set F 1, 8, 8, 8, 9, 9, 9, 10, 11. 11, 11, 20
+Discussion
+The median is (9 + 9) ÷ 2 = 9. The first quartile Qi is (8 + 8) ÷ 2 = 8. The third quartile
+the values used to calculate the quartiles are underlined.
+1, 8, 8
+8, 9,9
+9, 10, 11
+11, 11, 20
+Qj = 8
+Q2= 9
+Q3=11
+
+--- Page 33 ---
+Although both sets of data have a range of 19, you now know that data set E has an
+haal
+s mt e qui sread ut whereas  value  3 sets that while hal te ae
+t yo e an his t tottpcla
+the data.
+
+--- Page 34 ---
+This glossary is intended to provide a basic explanation of how a number of common
+mathematical terms are used. Definitions can be very slippery and confusing and at worst
+can replace one difficult term with a large number of other puzzling concepts. Therefore,
+where an easy definition is available it is provided here, where this has not been possible
+an example is used. If you require more detailed or complete definitions, you should
+refer to one of the very good mathematical dictionaries that are available, or to one or
+more books listed in the bibliography.
+Approximation: A numerical result given to a required level of accuracy, for example,
+to the nearest metre.
+Average: The word 'average' is often used instead of the word 'mean' but it can have
+other interpretations so it is best to use the appropriate correct term; this is usually
+'mean', but may be 'median' or 'mode' (see below).
+Chart: Pictorial representation of data e.g. pie chart, bar chart.
+Continuous data: Values that cannot be given exactly. This data is usually a
+measurement tike time, height or temperature.
+Data: Items of numerical information, raw facts or statistics collected together for
+analysis.
+Decimals: A way of expressing numbers using place value, e.g. 0.5 = = 2,
+1.75 =
+175
+100
+= $\frac{ }$
+Discrete data: Values that are clearly separated from one another, e.g. shoe sizes or
+modes of transport.
+Fractions: Parts of a whole number, e.g.
+I
+37
+24100
+etc.
+Graph: A drawing which depicts the relationship between data or values.
+Inter-quartite range: The range of the values between the first and third quartile.
+Mean: A typical value of a set of data, which is equal to the sum of the values in the set
+divided by the number of values in the set.
+Median: The middle point of a set of values arranged in ascending or descending order.
+Mode: The most common value in a set of data.
+Percentage: A proportion of a hundred parts, e.g. 75% =
+175
+100
+Quartile: Each of the three values that divide a set of data into four equal groups.
+Ratio: A comparison of one quantity with another.
+Scale: A series of marks at regular intervals on a line used for measuring, e.g. the
+divisions on the axis of a graph or the degree markings on a thermometer.
+Value: A numerical amount.
+
+--- Page 35 ---
+Where to get more help with using and interpreting tables, graphs, percentages, and with
+other aspects of numerical work.
+Further reading
+*The Good Study Guide by Andrew Northedge, published by The Open University,
+1990, 1SBN 0 7492 00448.
+Chapter 4 is entitled 'Working with numbers*
+Other chapters are entitled: 'Reading and note taking', 'Other ways of studying',
+What is good writing?", 'How to write essays', 'Preparing for examinations'.
+The Sciences Good Study Guide by Andrew Northedge, Jeff Thomas, Andrew Lane,
+Alice Peasgood, published by The Open University, 1997, ISBN 0 7492 341 1 3.
+More mathematical and science-based than The Good Study Guide.
+Chapter titles are: 'Getting started', "Reading and making notes', "Working with
+diagrams', 'Learning and using mathematics', "Working with numbers and symbols',
+'Different ways of studying", "Studying with a computer, 'Observing and
+experimenting', "Writing and tackling examinations'.
+There are also I00 pages of Maths Help on: calculations; negative numbers; fractions;
+decimals; percentages, approximations and uncertainties; powers and roots; scientific
+notation; formulas and algebra; interpreting and drawing graphs; perimeters, areas
+and volumes.
+*Breakthrough to Mathematics, Science and Technology (K5o7) - only available from the
+Open University. Each module refers to The Sciences Good Study Guide.
+Module I, entitled "Thinking about measurement', looks at mathematics in a variety of
+contexts, e.g. in the kitchen, on the road, in the factory, in the natural world.
+Module 4, entitled "Exploring pattern', looks at geometrical and numerical patterns
+using everyday examples.
+The other four modules in the series have a greater emphasis on science or
+technology than on mathematics.
+*Openings (Yoo3) - a pre-university course of two modules, 'Our living environment"
+and 'Thinking about measurement', from the Breakthrough series.
+The course lasts for I4 weeks and involves 6-8 hours study per week. There are no
+tutorials but your tutor is available to provide feedback by phone. The course is
+presented four times a year.
+*Teach yourseif basic mathematics by Alan Graham, published by Hodder and
+Stoughton, London, 1995, ISBN 0 340 64418 4.
+A book aimed at a more general (i.e. non-OU) audience in two parts entitled
+'Understanding the basics' and 'Maths in action'.
+Countdown to mathematics Volume I by Lynne Graham and David Sargent, published
+by Addison-Wesley, Slough, 1981, ISBN 0 201 13730 5.
+This is a useful next stage after any of the above and includes an introduction to algebra.
+Investigating Stotistics: A Beginner's Guide by Alan Graham, published by Hodder and
+Stoughton, London, 1990, ISBN 0 340 49311 9.
+This is a more thorough introduction to dealing with data and statistics.
+Teach Yourself Statistics by Alan Graham, published by Hodder and Stoughton,
+London, 1999, ISBN 0 340 75358 7.
+This book presents the basic ideas and techniques of this branch of mathematics
+clearly and simply.
+Statistics without tears by Derek Rowntree, published by Penguin, Harmondsworth,
+1981, ISBN 0 14 013632 0.
+This book is intended to support those people with no previous background in
+statistics, who need statistical understanding for part of a course that they are
+studying.
+The MBA Handbook, Study Skills for Managers by Sheila Cameron, 3rd edition,
+published by Pitman Publishing, 1997, ISBN 0 273 62812 7.
+Chapter I3, 'Using numbers' introduces the use
+
+--- Page 36 ---
+Open Mathematics (MU120) - Open University course that comprehensively covers
+mathematics topics.
+This course assumes you are already reasonably confident with the material
+covered by any of the books marked * or by Module 1 of Breokthrough to
+Mathematics, Science and Technology. The course has been studied successfully by
+many students whose primary interest lies in the humanities or social sciences.
+Sources of help
+The Open University
+Your local Regional Centre may know of local courses that take place in its region. For
+example, some "Back to Study' courses have a mathematical element to them.
+Local colleges and schools
+The local newspaper or your local library are your sources of reference here.
+Nowadays, most schools and colleges have evening or daytime courses that are open to
+adult learners. Many of them will have an advice point, so that you can telephone or
+drop in to discuss what you are looking for. Many will have an open learning centre
+where self-assessment tests and open learning materiats are available.
+Learn Direct
+This is a telephone tine that was set up to help adults to find out about local provision.
+The number is 08oo 100 900. Lines are open from 9 a.m. to 9 p.m. Monday to Friday,
+9 a.m. to 12 noon on Saturdays. Calls are free and you can ring as many times as you
+like. There is also a comprehensive website at http://www.learndirect.co.uk/
+The University for Industry has a website at http:/www.ufiltd.co.uk/, but this is now
+largely merged with the Learn Direct work.
+Scoffish Learning Nefwork
+The Scottish Learning Network at http://www.scottish-learning-network.co.uk/ is a
+gateway to information, guidance, assessment and on-line education and training
+opportunities in Scotland.
+
+--- Page 37 ---
+ACTIVITY 4
+Discussion
+I
+Decide on a clear title.
+'Measurernent of pulse rates for three volunteers on (date)'.
+2
+Collect the data.
+You will have three sets of ten measurements, one each for Person A, Person B and
+Person C
+3
+Decide on the data to be presented.
+You will be able to present all the data here, as there will be enough space.
+4
+Decide on the total number of rows and columns.
+There will be eleven rows, one for the column headings and ten for the measurernents.
+There will be a colurnn for the number of the measurement, and then one each for
+Persons A, B and C. Therefore, there will be four columns in all.
+5
+Decide on the row and column headings.
+Column headings: "Measurement number', 'Person A', 'Person B', and "Person C'; rows
+will be numbered from I to 10.
+6
+Draw the table outline.
+Measurernent of pulse rotes for three volunteers on (dote)
+Measurement number
+Person A
+Person B
+Person C
+I
+2
+3
+4
+5
+6
+7
+8
+6
+10
+ACTIVITY 6
+Discussion
+I
+Collect the data.
+You have the data in the table, and you wish to show total tumover against time.
+2
+Decide on a clear title.
+In this case, the heading of Table 2 seems to be suitable.
+3
+Decide on the values that you wish to show on the horizontal axis and the vertical
+axis.
+The independent variable in this case is time, so you need to plot it on the horizontal
+axis. As the data in Table 2 is in months, use these for the graph. The dependent value is
+the total tumover, so you need to plot it on the vertical axis, in £ billion. Remember to
+label the axes.
+4
+Decide on the scale.
+You should use months on the horizontal axis in both line graphs. In the first line graph,
+you should start the vertical axis at 6.5, just below the minimum value; in the second line
+graph, you should start the vertical axis at zero.
+
+--- Page 38 ---
+5
+Plot the graph.
+Using 6.5 as the starting point on the vertical axis, your graph should look like Figure 12.
+8.5
+8.0
+£ billion
+7.5
+7.0
+6.5
+June
+July
+Aug
+Sept
+Oct
+Nov
+Months (1999)
+Figure 12 Totol engineering turnover figures at current prices (f billion)
+Using zero as the starting point on the vertical axis, your graph should look like Figure 13.
+10
+8
+£billion
+6
+4
+2
+0
+June
+July
+Aug
+Sept
+Odt
+Nov
+Months (1999}
+Figure 13 Totol engineering turnover figures at current prices (f billion)
+ACTIVITY 7
+Discussion
+The obvious difference is that change between the months seers to be much greater in
+the graph where the vertical axis starts at £6.5 bilion. This is because the total scale on the
+vertical axis is much smaller than in the second graph, where the vertical axis starts at O. If
+you wished to use the line graph to show that tumover is fluctuating strongly, you might
+prefer to use the first graph, whereas if you wished to suggest that the fluctuations were
+not overty strong, you might prefer the second graph
+Take a look around you at the line graphs (and other graphs and diagrars) that you see,
+and notice how many of them have a particular erphasis because of a misleading use of
+scale.
+ACTIVITY 9
+Discussion
+1
+Decide on a clear title.
+The title of this bar chart can be the same as that of Table 5 'Attendance at cultural
+events in Great Britain. [99394'
+2
+Identify how many bars are needed.
+There are eight categories listed in Table 5, so you need eight bars. We have chosen to
+a
+of cultural event.
+
+--- Page 39 ---
+3
+Identify the scale you need for the other axis.
+The largest percentage is 50% and the srnallest is 3%, so the scale on the horizontal axis
+could go frorn 0 to 60 in steps of 5.
+4
+Draw and label the two axes.
+The horizontal axis should be labelled 'Percentage of adult population' but the vertical
+axis probably doesn't need a label, as the categories are self-explanatory.
+5
+Add the bars.
+The bars for the categories can be given in the order listed or you could put thern in
+order of popularity.
+Your bar chart should look like Figure 14.
+plays
+ballet
+contemporary
+dance
+opera
+classical
+music
+Jazz
+art galery
+cinema
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+Percentage of adull population
+Figure 14 Attendance at cuiturol events in Great Britain, 199394
+ACTIVITY 13
+Discussion
+The title of this histogram is not as obvious as you might think. You could go for
+'Number of live births by age of the mother in the UK in I997' or 'Age-specific birth
+rates in the UK in I997'. We chose 'Live birth rates in the UK in I997'.
+2
+There are six intervals, each spanning 5 years, which means that each of the six
+necessary rectangles should be the same width. Note, for example, that the I519
+interval includes those mothers who have just turmned I5 up to those who are about
+to tum 20.
+3
+The largest number of live births per I000 women is t04 and the smallest is 7. This
+would suggest a scale that goes from O to I l0 in steps of 10.
+4
+The axes should both be long enough for the chart to be easily read. The longer the
+vertical axis, the more accurately the height of the rectangles can be judged. The
+horizontal axis should be labelled 'Age group of mother in years' and the vertical axis,
+'Live births per T0oo woren'.
+5
+The bars should be in order of ascending age. Your histogram should look like
+Figure 15.
+
+--- Page 40 ---
+110
+100
+8 8
+Live births per 1000 women
+60
+0E
+20
+10
+0
+15-19 20-24 25-29 30-34 3539 40-44
+Age group ot mother In years
+Figure I5 Live birth rates in the UK in 1997
+ACTIVITY 15
+Discussion
+It shows the proportions of the population of Illinois by four different races. It gives a clear
+picture that the biggest racial group is Caucasian, and that there were only relatively small
+numbers of Native Americans in Ilinois in I992. However, remember that this data is in
+thousands of people, and the total population is I I 6 14 000 people. The actual nurnber of
+Native Americans is 25 ooo; don't be misled by the fact that the number looks small in
+comparison to the others in the pie chart
+ACTIVITY 16
+Discussion
+-
+Collect the data so the number per category can be counted.
+The t 998 data are shown in Table 12
+Table 12 Consurner price indices housing 1998 weights
+Consumer price index
+Weight 1998
+housing
+197
+rent
+47
+MIPS
+45
+Council Tax and rates
+30
+water and other charges
+12
+repairs and maintenance charges
+10
+D1Y materials
+I4
+dwelling insurance and ground rent
+7
+house depreciation
+32
+The title can be derived from the heading of Table I2 and the question. Hence,
+'Consumer price indices housing1998 weights'.
+
+--- Page 41 ---
+3
+Decide on the total number of categories.
+good number of groups for a pie chart as too many groups make the chart hard to
+follow.
+4
+Calculate the degree share in each category.
+Table I 3 shows degree share in each category (the row "housing' has been removed as
+it is not a category).
+Table 13 Consumer price indices housing 1998 weights
+Consumer price index
+Weight 1998
+Degree
+(to nearest whole number)
+rent
+47
+86
+MIPS
+45
+82
+Council Tax and rates
+30
+55
+water and other charges
+12
+22
+repairs and maintenance charges
+10
+18
+DIY materials
+14
+26
+dweling insurance and ground rent
+7
+13
+32
+58
+house depreciation
+total degrees
+360
+For clarity, we have given the degree share to the nearest whole number, but you
+may, on occasion, be required to use greater accuracy and give the figures to a
+number of decimal places.
+5
+Make a final check that the number of degrees adds up to 360, then draw the pie
+chart.
+Your pie chart should look like Figure 16. Note that the inclusion of percentages by each
+segrent makes the pie chart clearer for the reader.
+repairs and maintenance charges
+dwelling Insurance and ground rent
+%
+4%
+water and other charges
+6%
+renl
+24%
+DIY materlals
+7%
+Council Tax
+and rates
+15%
+MIPS
+23%
+house
+depreclation
+16%
+Figure 16 Consurer price indices housing 1998 weights
+
+--- Page 42 ---
+ACTIVITY 17
+Discussion
+Arranging the 15 values in ascending order gives:
+0, 0, 1, 2, 3, 3, 5, 5, 6, 6, 6, 7, 8, 9, 12
+The mean (total of all the hours divided by 15) = 72 ÷ 15 = 4.9 hours.
+The median (here the median is the 8th value) = 5 hours.
+The mode (the value which appears most frequently in the set of numbers) = 6 hours.
+
+--- Page 43 ---
+Assignment Booklet
+PT3
+A booklet that sets out the pieces of assessed work that you
+A self-carboned form that you send to your tutor with your
+have to complete during the course.
+completed assignment. Your tutor will use it to give you a mark
+and provide helpful feedback and suggestions for development.
+Block
+A unified section of the course material comprising print
+Regional Centre
+materials, cassettes etc.
+One of thirteen main centres throughout the UK that
+CMA
+provide educational and administrative services in the
+A computer-marked assignment that you complete on a
+regions.
+special form and send direct to Walton Hall for marking.
+Residential school
+Course Guide/Study Guide
+A residential school organized by the OU, held at a
+A booklet that guides you through the various components of
+conventional university site where you participate in a
+your course and shows how they fit together. it might also
+programme of academic activities concemed with your course.
+include some ideas about studying and study skills.
+Self-help group
+Course team
+Informal group of students who get together or keep in touch
+The group of people who produced the course. They include
+by phone to offer mutual support.
+academic, secretarial, design, broadcasting and editorial staff.
+Staff Tutor/Regional Manager
+Credit transfer
+A regional academic member of a particular faculty who is
+If you have successfully completed some study at higher
+responsible for the academic programme for a number of
+education level you may be able to count it towards your OU
+courses, including the appointment and supervision of tutors.
+qualification by transferring a number of credit points from
+Student Services
+this study.
+Staff within the Regional Centre and at Walton Hall who are
+Cut-off date
+responsible for organizing tutorials, residential schools and
+The date by which your assignments have to reach your tutor
+examinations and are able to offer advice and support for your
+(TMAs) or Walton Hall (CMAs).
+studies
+Examination
+Student Handbook
+At the end of most courses, there is a three-hour written
+The guide to atl University procedures; it contains useful help
+examination that you take at an examination centre.
+and advice on Open University study.
+Financial award
+Study calendar
+A calendar of dates for your particular course, giving study
+There is a Financial Award Fund from which you may be given
+financial help if you are unable to pay your course fees yourself.
+weeks, transmission details and assignment cut-off dates.
+FirstClass
+TMA
+An electronic-mail and computer-conferencing system used by
+Tutor-marked assignment - an assessed piece of work marked
+many OU students and tutors.
+by your tutor.
+Meeting your Needs
+Tutor
+This booklet is sent to you if you declared a disabitity on your
+The associate lecturer who will act as your guide throughout
+registration form. It outines the support the Open University
+the course; he or she will mark your assignments and run
+can offer.
+tutorials and day schools.
+OUSA
+Tutorial
+The Open University Students Association; all students are
+A regular opportunity to meet your tutor and other students at
+automatically members.
+a tutorial centre.
+OUSBA
+Tutorial centre
+Open University Student Budget Account; a means of spreading
+The place where you meet your tutor and other students for
+your fee payments across the year by paying in instalments.
+face-to-face tuition. Tutorial centres are usually based in local
+colleges or schools; your Regional Centre will send you details
+Personal identifier
+of locations together with your timetable.
+The number (e.g. R1234567) that you are given when you
+enrol with the Open University and which remains your
+Walton Hall
+personal reference number.
+The main site of the Open University at Milton Keynes. It is
+where courses are produced and much of the administration
+Project
+takes place.
+Some courses have extended pieces of work that carry a
+higher number of marks towards your assessment or are part
+of your examination work.
